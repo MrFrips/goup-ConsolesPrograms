@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "all-goup-console-program/1.0.0": {
+        "runtime": {
+          "all-goup-console-program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "all-goup-console-program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
