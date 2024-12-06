@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\portt\\.nuget\\packages\\": {}
+    "C:\\Users\\portt\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\portt\\source\\repos\\all-goup-console-program\\all-goup-console-program\\all-goup-console-program.csproj",
+      "projectUniqueName": "C:\\Users\\portt\\Source\\Repos\\MrFrips\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj",
       "projectName": "all-goup-console-program",
-      "projectPath": "C:\\Users\\portt\\source\\repos\\all-goup-console-program\\all-goup-console-program\\all-goup-console-program.csproj",
+      "projectPath": "C:\\Users\\portt\\Source\\Repos\\MrFrips\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj",
       "packagesPath": "C:\\Users\\portt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\portt\\source\\repos\\all-goup-console-program\\all-goup-console-program\\obj\\",
+      "outputPath": "C:\\Users\\portt\\Source\\Repos\\MrFrips\\goup-ConsolesPrograms\\all-goup-console-program\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\portt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
