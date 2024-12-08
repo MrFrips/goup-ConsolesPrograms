@@ -65,7 +65,9 @@ class Program
             1 => new Program1(),
             2 => new Program2(),
             3 => new Plug(),
-            4 => new Plug()
+            4 => new Plug(),
+            _ => null
+
         };
         return redo;
     }

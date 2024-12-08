@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\portt\\Source\\Repos\\MrFrips\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj": {}
+    "C:\\Users\\portt\\Documents\\GitHub\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\portt\\Source\\Repos\\MrFrips\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj": {
+    "C:\\Users\\portt\\Documents\\GitHub\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\portt\\Source\\Repos\\MrFrips\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj",
+        "projectUniqueName": "C:\\Users\\portt\\Documents\\GitHub\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj",
         "projectName": "all-goup-console-program",
-        "projectPath": "C:\\Users\\portt\\Source\\Repos\\MrFrips\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj",
+        "projectPath": "C:\\Users\\portt\\Documents\\GitHub\\goup-ConsolesPrograms\\all-goup-console-program\\all-goup-console-program.csproj",
         "packagesPath": "C:\\Users\\portt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\portt\\Source\\Repos\\MrFrips\\goup-ConsolesPrograms\\all-goup-console-program\\obj\\",
+        "outputPath": "C:\\Users\\portt\\Documents\\GitHub\\goup-ConsolesPrograms\\all-goup-console-program\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
