@@ -14,14 +14,14 @@ using System.Threading.Tasks;
             // Логика программы
             Console.WriteLine("Default > 5");
             Console.Write("Write pls x: ");
-            double x = Convert.ToDouble(Console.ReadLine());
+            var x = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Default > 5");
             Console.Write("Write pls y: ");
-            double y = Convert.ToDouble(Console.ReadLine());
+            var y = Convert.ToDouble(Console.ReadLine());
 
             // Вычисление значения функции Z
-            double z = (Math.Pow(Math.Sin(x), 5) * Math.Pow(Math.Cos(y), 5)) / 25 +
+            var z = (Math.Pow(Math.Sin(x), 5) * Math.Pow(Math.Cos(y), 5)) / 25 +
                        (Math.Pow(Math.Sin(x), 3) - Math.Pow(Math.Cos(y), 3)) / 125;
 
             Console.WriteLine("result Z: " + z);
