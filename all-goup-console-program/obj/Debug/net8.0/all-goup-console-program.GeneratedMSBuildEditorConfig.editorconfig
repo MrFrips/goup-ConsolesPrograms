@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = all_goup_console_program
-build_property.ProjectDir = C:\Users\portt\Documents\GitHub\goup-ConsolesPrograms\all-goup-console-program\
+build_property.ProjectDir = C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

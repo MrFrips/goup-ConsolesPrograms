@@ -1,0 +1,15 @@
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\bin\Release\net8.0\all-goup-console-program.exe
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\bin\Release\net8.0\all-goup-console-program.deps.json
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\bin\Release\net8.0\all-goup-console-program.runtimeconfig.json
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\bin\Release\net8.0\all-goup-console-program.dll
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\bin\Release\net8.0\all-goup-console-program.pdb
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\all-goup-console-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\all-goup-console-program.AssemblyInfoInputs.cache
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\all-goup-console-program.AssemblyInfo.cs
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\all-goup-console-program.csproj.CoreCompileInputs.cache
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\all-goup-console-program.sourcelink.json
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\all-goup-console-program.dll
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\refint\all-goup-console-program.dll
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\all-goup-console-program.pdb
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\all-goup-console-program.genruntimeconfig.cache
+C:\Users\portt\Documents\GItHub\goup-ConsolesPrograms\all-goup-console-program\obj\Release\net8.0\ref\all-goup-console-program.dll
