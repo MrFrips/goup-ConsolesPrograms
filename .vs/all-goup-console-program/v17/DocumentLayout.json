@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\portt\\Documents\\GItHub\\goup-ConsolesPrograms\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{850A7428-9748-4D5C-8327-A7D67F169B5F}|all-goup-console-program\\all-goup-console-program.csproj|c:\\users\\portt\\documents\\github\\goup-consolesprograms\\all-goup-console-program\\projectlabs\\labfifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A7428-9748-4D5C-8327-A7D67F169B5F}|all-goup-console-program\\all-goup-console-program.csproj|solutionrelative:all-goup-console-program\\projectlabs\\labfifth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A7428-9748-4D5C-8327-A7D67F169B5F}|all-goup-console-program\\all-goup-console-program.csproj|c:\\users\\portt\\documents\\github\\goup-consolesprograms\\all-goup-console-program\\shstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A7428-9748-4D5C-8327-A7D67F169B5F}|all-goup-console-program\\all-goup-console-program.csproj|solutionrelative:all-goup-console-program\\shstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{850A7428-9748-4D5C-8327-A7D67F169B5F}|all-goup-console-program\\all-goup-console-program.csproj|c:\\users\\portt\\documents\\github\\goup-consolesprograms\\all-goup-console-program\\projectlabs\\labsecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{850A7428-9748-4D5C-8327-A7D67F169B5F}|all-goup-console-program\\all-goup-console-program.csproj|solutionrelative:all-goup-console-program\\projectlabs\\labsecond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shstart.cs",
+              "DocumentMoniker": "C:\\Users\\portt\\Documents\\GItHub\\goup-ConsolesPrograms\\all-goup-console-program\\Shstart.cs",
+              "RelativeDocumentMoniker": "all-goup-console-program\\Shstart.cs",
+              "ToolTip": "C:\\Users\\portt\\Documents\\GItHub\\goup-ConsolesPrograms\\all-goup-console-program\\Shstart.cs",
+              "RelativeToolTip": "all-goup-console-program\\Shstart.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:42:27.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LABFifth.cs",
+              "DocumentMoniker": "C:\\Users\\portt\\Documents\\GItHub\\goup-ConsolesPrograms\\all-goup-console-program\\ProjectLabs\\LABFifth.cs",
+              "RelativeDocumentMoniker": "all-goup-console-program\\ProjectLabs\\LABFifth.cs",
+              "ToolTip": "C:\\Users\\portt\\Documents\\GItHub\\goup-ConsolesPrograms\\all-goup-console-program\\ProjectLabs\\LABFifth.cs",
+              "RelativeToolTip": "all-goup-console-program\\ProjectLabs\\LABFifth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:40:43.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LabSecond.cs",
               "DocumentMoniker": "C:\\Users\\portt\\Documents\\GItHub\\goup-ConsolesPrograms\\all-goup-console-program\\ProjectLabs\\LabSecond.cs",
               "RelativeDocumentMoniker": "all-goup-console-program\\ProjectLabs\\LabSecond.cs",
               "ToolTip": "C:\\Users\\portt\\Documents\\GItHub\\goup-ConsolesPrograms\\all-goup-console-program\\ProjectLabs\\LabSecond.cs",
               "RelativeToolTip": "all-goup-console-program\\ProjectLabs\\LabSecond.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T10:35:34.67Z",
               "EditorCaption": ""
