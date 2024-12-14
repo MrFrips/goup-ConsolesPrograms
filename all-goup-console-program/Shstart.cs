@@ -52,8 +52,9 @@ class Program
         Console.WriteLine("Main Menu:");
         Console.WriteLine("1. Лабараторная 1");
         Console.WriteLine("2. Лабараторная 2");
-        Console.WriteLine("3. Лабараторная 5");
-        Console.WriteLine("4. Заглушка");
+        Console.WriteLine("3. Лабараторная 4");
+        Console.WriteLine("4. Лабараторная 5");
+        Console.WriteLine("5. Заглушка");
         Console.WriteLine("0. Exit");
     }
 
@@ -64,8 +65,9 @@ class Program
         {
             1 => new Program1(),
             2 => new Program2(),
-            3 => new Program5(),
-            4 => new Plug(),
+            3 => new Program4(),
+            4 => new Program5(),
+            5 => new Plug(),
             _ => null
 
         };
