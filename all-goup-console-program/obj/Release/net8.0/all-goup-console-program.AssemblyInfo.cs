@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("all-goup-console-program")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+875874772b3e69988d1615dc3812b1c279b82607")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0ebd9e29df452974f0c6c137f2d1b6a9471ed98")]
 [assembly: System.Reflection.AssemblyProductAttribute("all-goup-console-program")]
 [assembly: System.Reflection.AssemblyTitleAttribute("all-goup-console-program")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
