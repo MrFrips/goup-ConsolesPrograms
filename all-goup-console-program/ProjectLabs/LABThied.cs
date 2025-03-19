@@ -7,7 +7,11 @@
         Console.WriteLine("");
         // Логика программы
         Console.Write("Введите количество элементов массива array-element: ");
-        int arraySize = int.Parse(Console.ReadLine());
+        int arraySize = int.TryParse(Console.ReadLine(), out int _size) ? _size : 0;
+        if (arraySize < 0)
+        {
+
+        }
 
         // Генерируем массив с уникальными случайными числами
         int[] array = GenerateRandomArray(arraySize);
@@ -26,7 +30,7 @@
         static int[] GenerateRandomArray(int size)
         {
             int[] array = new int[size];
-            Random random = new Random();
+            var random = new Random(Guid.NewGuid().GetHashCode());
             bool[] used = new bool[size];
 
             for (int i = 0; i < size; i++)

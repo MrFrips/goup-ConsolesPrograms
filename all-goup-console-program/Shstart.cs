@@ -8,7 +8,7 @@ interface IGuacp
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] _)
     {
         while (true)
         {
@@ -16,7 +16,7 @@ class Program
             ShowMenu();
 
             Console.Write("Choose your Pokémon: ");
-            string input = Console.ReadLine();
+            var input = Console.ReadLine();
 
             if (int.TryParse(input, out int choice))
             {
@@ -27,7 +27,7 @@ class Program
                     break;
                 }
 
-                IGuacp selectedProgram = GetProgram(choice);
+                IGuacp? selectedProgram = GetProgram(choice);
                 if (selectedProgram != null)
                 {
                     Console.Clear();
@@ -59,10 +59,10 @@ class Program
         Console.WriteLine("0. Exit");
     }
 
-    static IGuacp GetProgram(int choice)
+    static IGuacp? GetProgram(int choice)
     {
         //Нужна проверка если число больше заданного перемещать его в GoAway();
-        IGuacp redo = choice switch
+        IGuacp? redo = choice switch
         {
             1 => new Program1(),
             2 => new Program2(),

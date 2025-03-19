@@ -8,10 +8,14 @@ public class Program4 : IGuacp
     {
         // Запрос адреса электронной почты у пользователя
         Console.Write("Введите ваш адрес электронной почты UR MAIL: ");
-        string userEmail = Console.ReadLine();
+        var userEmail = Console.ReadLine();
+        if (userEmail == null)
+        {
+            return;
+        }
 
         // Создание сообщения
-        MailMessage mailMessage = new MailMessage();
+        var mailMessage = new MailMessage();
         mailMessage.From = new MailAddress("pointpixelmail@pointpixel.ru");
         mailMessage.To.Add(userEmail);
         mailMessage.Subject = "Сообщение с pointpixelmail@pointpixel.ru";
@@ -19,10 +23,12 @@ public class Program4 : IGuacp
         mailMessage.IsBodyHtml = true; // Установите true, если хотите использовать HTML
 
         // Настройка SMTP-клиента
-        SmtpClient smtpClient = new SmtpClient("smtp.pointpixelmail@pointpixel.ru", 587)
+        var smtpClient = new SmtpClient("smtp.pointpixel.ru", 587)
         {
+            UseDefaultCredentials = false,
             Credentials = new NetworkCredential("support@pointpixel.ru", "@-gKgkxW-^-XrD4Rn-&-J8V@&@"),
-            EnableSsl = true
+            EnableSsl = true,
+            DeliveryMethod = SmtpDeliveryMethod.Network,
         };
 
         try

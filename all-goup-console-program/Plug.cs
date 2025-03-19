@@ -13,7 +13,7 @@ namespace all_goup_console_program
             Console.WriteLine("PLUG.");
             Console.WriteLine("");
             // Логика программы 1
-            Console.WriteLine("Oups, i think you've hit the console XD.");
+            Console.WriteLine("Oops, I think you've hit the console XD.");
             Console.ReadKey();
         }
     }
